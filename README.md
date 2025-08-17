@@ -59,8 +59,8 @@ brew install ipmitool
 1. **Download the script:**
    ```bash
    curl -O https://raw.githubusercontent.com/Darkhand81/idrac_fan_control/refs/heads/main/fan_control.sh
-   # or save the script manually as fan_control.sh
    ```
+   Or save the script manually as fan_control.sh
 
 2. **Make it executable:**
    ```bash
